@@ -27,57 +27,9 @@ Instead of static dashboards, Vero focuses on interpretation and decision suppor
 - Intelligent data visualization
 - Modular analytics architecture
 
-### Stack
-- React + TypeScript
-- Node.js + Express
-- Python + FastAPI
-- PostgreSQL
-- Redis + BullMQ
-- Docker
-
 Check it out here:
 <kbd>[Vero Financial Intelligence Platform](https://github.com/LordCamau/Vero-Financial-Intelligence-Platform) </kbd>
 
-# What I care about
-
-I’m deeply interested in building systems that:
-
-- help people make better decisions
-- simplify complex workflows
-- transform raw data into usable insight
-- bridge product strategy with technical execution
-
-I enjoy working across the full product lifecycle:
-
-- UX strategy
-- interface design
-- frontend engineering
-- systems architecture
-- product thinking
-
-# Tech Stack
-### Frontend
-- React
-- TypeScript
-- Next.js
-- Tailwind CSS
-- Framer Motion
-
-### Backend & Systems
-- Node.js
-- Express
-- Python
-- FastAPI
-- PostgreSQL
-- Redis
-
-### Design
-- Figma
-- Product Strategy
-- UX Research
-- UX/UI Design
-- Design Systems
-- Interaction Design
 
 # Current Focus
 - Building Vero into a production-grade intelligence platform
